@@ -70,8 +70,8 @@ Meu interesse central está na interseção entre pesquisa e aplicação prátic
 ## Estatísticas
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Erickllino&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickllino&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Erickllino&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Erickllino&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 <br/>
 <img src="https://streak-stats.demolab.com?user=Erickllino&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>

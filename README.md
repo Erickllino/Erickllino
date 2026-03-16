@@ -16,8 +16,6 @@
 
 Estudante de Engenharia da Computação na **Universidade Federal de Pernambuco (UFPE)**, 4º período, com experiência prática em visão computacional, aprendizado profundo e robótica autônoma. Atuo em dois grupos de pesquisa acadêmica e desenvolvo projetos independentes com ênfase em aprendizado de máquina e automação inteligente.
 
-Meu interesse central está na interseção entre pesquisa e aplicação prática — do desenvolvimento de modelos ao deploy em produção.
-
 ---
 
 ## Experiência em Pesquisa
